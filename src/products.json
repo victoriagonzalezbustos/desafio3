@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "titulo": "mochila",
+      "descripcion": "mochila para colegio",
+      "precio": 1000,
+      "img": "sin img",
+      "codigo": "1234",
+      "stock": 45
+    },
+    {
+      "id": 2,
+      "titulo": "cartuchera",
+      "descripcion": "cartuchera 3 pisos",
+      "precio": 500,
+      "img": "sin img",
+      "codigo": "1235",
+      "stock": 80
+    },
+    {
+      "id": 3,
+      "titulo": "lapicera",
+      "descripcion": "azul",
+      "precio": 50,
+      "img": "sin img",
+      "codigo": "1236",
+      "stock": 100
+    },
+    {
+      "id": 4,
+      "titulo": "lapices",
+      "descripcion": "lapices de colores",
+      "precio": 5000,
+      "img": "sin img",
+      "codigo": "1237",
+      "stock": 90
+    },
+    {
+      "id": 5,
+      "titulo": "marcadores",
+      "descripcion": "caja de 24",
+      "precio": 900,
+      "img": "sin img",
+      "codigo": "1238",
+      "stock": 40
+    }
+  ]
